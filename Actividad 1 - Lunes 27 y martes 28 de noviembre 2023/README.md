@@ -4,7 +4,7 @@
 
 ## **Consigna**
 
-Deberán crear una presentación para explicar una función en Python compartiendo pantalla, y luego deberán hacer una demostración en vivo acerca del uso de esa función.
+Deberán crear una presentación para explicar una función de la librería Pandas compartiendo pantalla, y luego deberán hacer una demostración en vivo acerca del uso de esa función.
 La exposición y la demostración tienen un máximo de duración de 5 minutos. Aprovechen para ser sintéticos.
 
 ## **Órden de exposición**
