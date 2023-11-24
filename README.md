@@ -4,5 +4,5 @@
 
 # <h1 align=center>**`Actividades`**</h1>
 
-# <h1 align=center>`Bienvenidos, aquí van a ver los contenidos del Stand Up del grupo 2.`**</h1>
+<p align=center>Bienvenidos, aquí van a ver los contenidos del Stand Up del grupo 2.</p>
 
