@@ -6,3 +6,5 @@
 
 <p align=center>Bienvenidos, aquí van a ver los contenidos del Stand Up del grupo 2.</p>
 
+Actividad 2: Contiene ejercicios resueltos para practicar el checkpoint 1
+Actividad 3: Contiene ejercicios resueltos para practicar el checkpoint 1
