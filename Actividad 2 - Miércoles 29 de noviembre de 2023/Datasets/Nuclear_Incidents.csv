@@ -1,5 +1,4 @@
-Date,Location ,Incident,Category,Numbers of Direct Deaths,Numbers of InDirect Deaths,"INES
-level",Latitude,Longitude
+Date,Location,Incident,Category,Numbers of Direct Deaths,Numbers of InDirect Deaths,"INES level",Latitude,Longitude
 29/09/1957,"Mayak, Kyshtym, Soviet Union",Kyshtym disaster,Storage/Handling,,200,6,55.7131,60.8526
 10/10/1957,"Sellafield, Cumberland, United Kingdom",Windscale fire,Operational/Safety Measures,0,240,5,54.4167,-3.4833
 03/01/1961,"Idaho Falls, Idaho, United States",SL-1 prototype explosion,Operator Error,3,,4,43.492,-112.0401
